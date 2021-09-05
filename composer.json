@@ -1,5 +1,5 @@
 {
-	"name": "pahanini/yii2-neat-cache",
+	"name": "ustramooner/yii2-neat-cache",
 	"description": "A Yii2 components to prevent simultaneous updates (dog pile effect) during caching.",
 	"keywords": ["yii2", "cache", "doc pile", "simultaneous updates", "mutex"],
 	"homepage": "https://github.com/pahanini/yii2-neat-cache",
